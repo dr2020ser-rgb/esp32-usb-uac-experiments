@@ -20,9 +20,9 @@
 #define SPEAKER_I2S_LRC   21
 #define SPEAKER_SD_MODE   12
 
-#define MIC_I2S_CLK  9
-#define MIC_I2S_LR   10
-#define MIC_I2S_DATA 11
+#define MIC_I2S_CLK  10
+#define MIC_I2S_LR   11
+#define MIC_I2S_DATA 9
 
 static i2s_chan_handle_t rx;
 static i2s_chan_handle_t tx;
